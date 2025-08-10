@@ -1,0 +1,9 @@
+department_id,department_name,department_code,location,budget
+1,Information Technology,IT,Floor 3 Building A,1500000.00
+2,Human Resources,HR,Floor 2 Building A,800000.00
+3,Finance,FIN,Floor 4 Building A,1200000.00
+4,Marketing,MKT,Floor 1 Building B,900000.00
+5,Sales,SALES,Floor 2 Building B,1100000.00
+6,Operations,OPS,Floor 1 Building A,700000.00
+7,Research & Development,R&D,Floor 5 Building A,2000000.00
+8,Customer Support,CS,Floor 3 Building B,600000.00
